@@ -1,5 +1,8 @@
 # Cursor plugins
 
+> This fork adds a Codex adaptation of pstack. See [Codex setup and compatibility](CODEX.md).
+> The original Cursor packages are preserved below.
+
 Official Cursor plugins for popular developer tools, frameworks, and SaaS products. Each plugin is a standalone directory at the repository root with its own `.cursor-plugin/plugin.json` manifest.
 
 ## Plugins
