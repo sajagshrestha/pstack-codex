@@ -1,0 +1,4 @@
+interface:
+  display_name: "Poteto Mode for Codex"
+  short_description: "Pstack workflows for grounded, verified engineering"
+  default_prompt: "Use $poteto-mode to investigate this task, make the smallest coherent change, and verify the result."
